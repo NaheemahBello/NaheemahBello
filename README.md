@@ -14,7 +14,7 @@
 
 <h1>
   Welcome to Naheemah Bello's Github
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="30px"/>
+  <img src="e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891" width="30px"/>
 </h1>
 
 <div align="center">
