@@ -22,13 +22,13 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+I am a Full Stack Software Engineer in making <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m learnig to be a Software Engineer and open to contributing and learning from others.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring git and other interesting things along the way.
 
-- :zap: In my free time, I solve problems, build projects and read tech articles.
+- :zap: I love PYTHON.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-NaheemahBello-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naheemah-bello-933443250/)
 
@@ -48,7 +48,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/tecnophille" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/Naheemah" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
 📈 my github stats
